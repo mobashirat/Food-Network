@@ -26,7 +26,25 @@ section{
 .link-button{
     text-decoration: none;
     background-image:linear-gradient(red,tomato);
-    padding: 10px 40px;
+    padding: 10px 30px;
     color: white;
     font-weight: 600px;
+    border-radius: 20px;
+    border: 2px solid;
 }
+
+
+.img-width{
+    width: 40%;
+}
+.padding{
+    padding-top: 20%;
+    padding-left: 20%;
+}
+.padding-para{
+    padding-left: 20%;
+}
+.Myself-cook{
+    background-image: url(images/shapes/Frame\ 58.jpg);
+}
+
