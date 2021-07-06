@@ -11,8 +11,9 @@ p{
 .blue-color{
     color:red;
 }
-section{
+.flexible-container{
     display: flex;
+    margin-bottom: 150px;
 }
 .half-width{
     width:50%;
@@ -47,4 +48,13 @@ section{
 .Myself-cook{
     background-image: url(images/shapes/Frame\ 58.jpg);
 }
+.text-center{
+    text-align: center;
+    margin: 0px auto;
+}
 
+
+.design-font{
+    font-family:cursive;
+    font-size:35px;
+}
